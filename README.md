@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Iamkhennie
-- 👀 I’m interested in Urban Planning and Data Analysis
-- 🌱 I’m currently learning Data analysis 
+- 👋 Hi, I’m Kehinde Bolatitotito
+- 👀 I am a Data Analyst 
 - 📫 How to reach me bkehinde4@gmail.com 
 
 <!---
